@@ -9,7 +9,7 @@ class Calculator
 		System.out.println("Enter the number");
 		int num2=sc.nextInt();
 		int sum=0;
-		System.out.println("enter the number for");
+		System.out.println("enter the number :");
 		System.out.println("1 (addition)");
 		System.out.println("2 (sub)");
 		System.out.println("3 (mul)");
